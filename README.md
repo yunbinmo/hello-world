@@ -1,2 +1,2 @@
 # hello-world
-Where dreams begin
+A NUS Computer Science student
